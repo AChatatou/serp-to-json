@@ -1,4 +1,4 @@
-# SERP to JSON Converter 🕵️‍♂️➡️📄
+# SERP to JSON Converter
 
 A simple and intuitive [Streamlit](https://streamlit.io) app that allows users to upload **HTML files of search engine result pages (SERPs)** and convert them into structured **JSON** data.
 
@@ -30,12 +30,13 @@ Or alternatively for local use:
    cd serp-to-json
    ```
 2. Install dependencies:
-   `pip install -r requirements.txt`
+   ```
+   pip install -r requirements.txt
+   ```
 3. Run the app
 
    ```
    streamlit run app.py
-
    ```
 
 4. Open your browser at http://localhost:8501
